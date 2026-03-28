@@ -2266,6 +2266,9 @@ async def remove_question(interaction: discord.Interaction, index: int):
 # --- [ التشغيل النهائي المعتمد والمطور ] ---
 
 if __name__ == "__main__":
+    # هذا السطر هو اللي بيفتح "البوابة" لريندر عشان يفك التعليق ويصير Live فوراً
+    keep_alive() 
+    
     # سحب التوكن من ملف .env أو من إعدادات ريندر
     TOKEN = os.getenv("DISCORD_TOKEN")
     
