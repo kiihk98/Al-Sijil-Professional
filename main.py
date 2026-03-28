@@ -7,13 +7,26 @@ import random
 import string
 import datetime
 import asyncio
-# dotenv + helpers
-from dotenv import load_dotenv
-import helpers
+from flask import Flask
+from threading import Thread
 
-# load .env
+# --- [ إعداد الويب سيرفر لفك تعليق ريندر ] ---
+app = Flask('')
+@app.route('/')
+def home():
+    return "🚀 البوت شغال والـ 20 ميزة جاهزة يا جواد!"
 
-load_dotenv()
+def run():
+    # ريندر يقرأ بورت 8080 تلقائياً
+    app.run(host='0.0.0.0', port=8080)
+
+def keep_alive():
+    t = Thread(target=run)
+    t.start()
+
+# --- [ التعامل مع المكتبات والتوكن ] ---
+# ملاحظة: ريندر لا يحتاج load_dotenv() إذا وضعت التوكن في الـ Environment Variables
+TOKEN = os.getenv("DISCORD_TOKEN")
 
 # --- [ إعدادات الهوية والمطور ] ---
 # الأيديات الأساسية (تقدر تضيف نفسك يدويًا هنا أو عبر الأمر السري)
