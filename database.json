@@ -1,0 +1,249 @@
+{
+    "codes": {
+        "JAWAD_0V5GV41KLOBLOCKP": {
+            "status": "used",
+            "guild_id": "1457864051060117567",
+            "created_at": "2026-03-27 12:02:13",
+            "activated_by": 1098379697949249547,
+            "activation_date": "2026-03-27 12:08:43"
+        },
+        "JAWAD_GY17WH4OOHHZ90AP": {
+            "status": "disabled",
+            "guild_id": null,
+            "created_at": "2026-03-27 12:02:13",
+            "disabled_at": "2026-03-27 12:05:09",
+            "disabled_by": 1098379697949249547
+        },
+        "JAWAD_XZTPRBP3E1AEDM6L": {
+            "status": "used",
+            "guild_id": "1478935170504724660",
+            "created_at": "2026-03-28 02:44:05",
+            "activated_by": 1263335990173634581,
+            "activation_date": "2026-03-28 02:48:12"
+        },
+        "JAWAD_HGXOPJBRTLM6UXON": {
+            "status": "unused",
+            "guild_id": null,
+            "created_at": "2026-03-28 02:55:04"
+        }
+    },
+    "developers": [
+        1478381266834554963,
+        1098379697949249547,
+        1263335990173634581
+    ],
+    "guilds": {
+        "1434923249153871946": {
+            "owner_id": 1098379697949249547,
+            "activation_code": "JAWAD_2U6RVO6RSWBLTLZG",
+            "settings": {
+                "bot_enabled": true,
+                "auto_role_enabled": true,
+                "citizen_role_id": null,
+                "log_channel_id": null,
+                "records_channel_id": null,
+                "apply_channel_id": null,
+                "reports_channel_id": null,
+                "questions": [
+                    "ما هو اسمك الثلاثي؟",
+                    "كم عمرك؟",
+                    "لماذا تريد الانضمام؟"
+                ],
+                "max_questions": 15,
+                "fingerprint_check": true
+            },
+            "citizens": {},
+            "fines": []
+        },
+        "1453434542583971893": {
+            "owner_id": 1098379697949249547,
+            "activation_code": "JAWAD_K0ETHUX2D1BI9AUL",
+            "settings": {
+                "bot_enabled": true,
+                "auto_role_enabled": false,
+                "citizen_role_id": null,
+                "log_channel_id": 1487239141660823684,
+                "records_channel_id": 1487239139501019266,
+                "apply_channel_id": 1487239137651064832,
+                "reports_channel_id": 1487239143217041449,
+                "questions": [
+                    "ما هو اسمك الثلاثي؟",
+                    "كم عمرك؟",
+                    "لماذا تريد الانضمام؟"
+                ],
+                "max_questions": 15,
+                "fingerprint_check": true,
+                "submissions_channel_id": 1487239144806547488,
+                "admin_panel_channel_id": 1487239146903834624,
+                "mod_tools_channel_id": 1487239148283625483,
+                "broadcast_channel_id": 1487239141660823684
+            },
+            "citizens": {},
+            "fines": []
+        },
+        "1457864051060117567": {
+            "owner_id": 1242879535045935236,
+            "activation_code": "JAWAD_0V5GV41KLOBLOCKP",
+            "settings": {
+                "bot_enabled": true,
+                "auto_role_enabled": false,
+                "citizen_role_id": null,
+                "log_channel_id": 1479466272059031755,
+                "records_channel_id": 1479465690250350686,
+                "apply_channel_id": 1479465689126404107,
+                "reports_channel_id": null,
+                "broadcast_channel_id": null,
+                "complaints_channel_id": null,
+                "suggestions_channel_id": null,
+                "police_roles": [],
+                "recruitment_roles": [],
+                "payment_instructions": "يرجى التواصل مع الإدارة للسداد.",
+                "recruitment_settings": {
+                    "questions": [],
+                    "channel_id": null,
+                    "enabled": false
+                },
+                "questions": [
+                    "ما هو اسمك الثلاثي؟",
+                    "كم عمرك؟",
+                    "لماذا تريد الانضمام؟"
+                ],
+                "max_questions": 15,
+                "fingerprint_check": true
+            },
+            "citizens": {},
+            "fines": [],
+            "police_reports": [],
+            "recruitment_applications": {}
+        },
+        "1478935170504724660": {
+            "owner_id": 1263335990173634581,
+            "activation_code": "JAWAD_XZTPRBP3E1AEDM6L",
+            "settings": {
+                "bot_enabled": true,
+                "auto_role_enabled": false,
+                "citizen_role_id": null,
+                "log_channel_id": null,
+                "records_channel_id": null,
+                "apply_channel_id": null,
+                "reports_channel_id": null,
+                "broadcast_channel_id": null,
+                "complaints_channel_id": null,
+                "suggestions_channel_id": null,
+                "police_roles": [],
+                "recruitment_roles": [],
+                "payment_instructions": "يرجى التواصل مع الإدارة للسداد.",
+                "recruitment_settings": {
+                    "questions": [],
+                    "channel_id": null,
+                    "enabled": false
+                },
+                "questions": [
+                    "ما هو اسمك الثلاثي؟",
+                    "كم عمرك؟",
+                    "لماذا تريد الانضمام؟"
+                ],
+                "max_questions": 15,
+                "fingerprint_check": true
+            },
+            "citizens": {},
+            "fines": [],
+            "police_reports": [],
+            "recruitment_applications": {}
+        }
+    },
+    "global_stats": {
+        "total_guilds": 4
+    },
+    "global_settings": {
+        "public_enabled": true,
+        "complaints_channel_id": "<#1434923250118299742>",
+        "suggestions_channel_id": "<#1434923250118299742>"
+    },
+    "complaints": [
+        {
+            "name": "عمو جالبابلتقغثغثاغيبلالا هااي ابراهيم",
+            "server_link": "select.add_option(label=f\"السؤال رقم {i+1}\", value=str(i), description=\"تعديل أو حذف السؤال\")",
+            "activation_code": "select.add_option(label=f\"السؤال رقم {i+1}\", value=str(i), description=\"تعديل أو حذف السؤال\")",
+            "complaint_type": "select.add_option(label=f\"السؤال رقم {i+1}\", value=str(i), description=\"تعديل أو حذف السؤال\")",
+            "details": "select.add_option(label=f\"السؤال رقم {i+1}\", value=str(i), description=\"تعديل أو حذف السؤال\")",
+            "user_id": 1098379697949249547,
+            "username": "_505p",
+            "guild_id": 1457864051060117567,
+            "guild_name": "غوسـت تـاون | GHOST TOWN",
+            "timestamp": "2026-03-27 11:30:00"
+        },
+        {
+            "name": "جواد ابراهيم منجي بن محمد احمد هويشلي",
+            "server_link": "<#1434923250118299742>",
+            "activation_code": "JAWAD_SUPER_SECRET99",
+            "complaint_type": "مشكلة تقنية في البوت حلوهااا",
+            "details": "البوت مايحدث البينق",
+            "user_id": 1098379697949249547,
+            "username": "_505p",
+            "guild_id": 1457864051060117567,
+            "guild_name": "غوسـت تـاون | GHOST TOWN",
+            "timestamp": "2026-03-27 11:32:34"
+        },
+        {
+            "name": "gdfg",
+            "server_link": "gdf",
+            "activation_code": "fgd<#1434923250118299742>",
+            "complaint_type": "<#1434923250118299742><#1434923250118299742><#1434923250118299742><#1434923250118299742><#1434923250118299742>",
+            "details": "<#1434923250118299742><#1434923250118299742><#1434923250118299742><#1434923250118299742><#1434923250118299742><#1434923250118299742><#1434923250118299742><#1434923250118299742><#1434923250118299742><#1434923250118299742>fsdhe<#1434923250118299742><#1434923250118299742><#1434923250118299742>dfs",
+            "user_id": 1098379697949249547,
+            "username": "_505p",
+            "guild_id": 1457864051060117567,
+            "guild_name": "غوسـت تـاون | GHOST TOWN",
+            "timestamp": "2026-03-27 11:40:23"
+        },
+        {
+            "name": "JAWAD_0V5GV41KLOBLOCKPczfdgert4564523423143245356564564564",
+            "server_link": "JAWAD_0V5GV41KLOBLOCKPdgft2142643575686896",
+            "activation_code": "JAWAD_0V5GV41KLOBLOCKP",
+            "complaint_type": "dsad",
+            "details": "ujgyityhdfJAWAD_0V5GV41KLOBLOCKPfddf",
+            "user_id": 1098379697949249547,
+            "username": "_505p",
+            "guild_id": 1457864051060117567,
+            "guild_name": "غوسـت تـاون | GHOST TOWN",
+            "timestamp": "2026-03-27 12:10:07"
+        },
+        {
+            "name": "gfdsgh",
+            "server_link": "weuy",
+            "activation_code": "<#1434923250118299742>",
+            "complaint_type": "khjkty",
+            "details": "cvncvnxzcvxbn <#1434923250118299742> gfd",
+            "user_id": 1098379697949249547,
+            "username": "_505p",
+            "guild_id": 1457864051060117567,
+            "guild_name": "غوسـت تـاون | GHOST TOWN",
+            "timestamp": "2026-03-27 12:11:16"
+        },
+        {
+            "name": "fd",
+            "server_link": "tyrubvn",
+            "activation_code": "JAWAD_XZTPRBP3E1AEDM6L",
+            "complaint_type": "سيرفر محتال",
+            "details": "عاطين البوت سيرفر محتال",
+            "user_id": 1263335990173634581,
+            "username": "az0z2007",
+            "guild_id": 1478935170504724660,
+            "guild_name": "A🤍's server",
+            "timestamp": "2026-03-28 02:49:42"
+        }
+    ],
+    "suggestions": [
+        {
+            "name": "<#1434923250118299742><#1434923250118299742><#1434923250118299742><#1434923250118299742><#1434923250118299742>",
+            "suggestion_type": "<#1434923250118299742><#1434923250118299742>",
+            "details": "fsdg<#1434923250118299742>fsdfge",
+            "user_id": 1098379697949249547,
+            "username": "_505p",
+            "guild_id": 1457864051060117567,
+            "guild_name": "غوسـت تـاون | GHOST TOWN",
+            "timestamp": "2026-03-27 11:41:07"
+        }
+    ]
+}
